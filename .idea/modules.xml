@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyBlockCanarySample.iml" filepath="$PROJECT_DIR$/MyBlockCanarySample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/blockcanary-sample/blockcanary-sample.iml" filepath="$PROJECT_DIR$/blockcanary-sample/blockcanary-sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myss/myss.iml" filepath="$PROJECT_DIR$/myss/myss.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yyhtoast/yyhtoast.iml" filepath="$PROJECT_DIR$/yyhtoast/yyhtoast.iml" />
+    </modules>
+  </component>
+</project>
